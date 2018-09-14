@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "syslog2es", "..\syslog2es\syslog2es.csproj", "{AE1C5BD9-7A8F-4FFB-9EF7-55571AD66531}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homahacks", "src\homahacks\homahacks.csproj", "{53932C04-DC18-4CFA-AE8F-D823A02D8AB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE1C5BD9-7A8F-4FFB-9EF7-55571AD66531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE1C5BD9-7A8F-4FFB-9EF7-55571AD66531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE1C5BD9-7A8F-4FFB-9EF7-55571AD66531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE1C5BD9-7A8F-4FFB-9EF7-55571AD66531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53932C04-DC18-4CFA-AE8F-D823A02D8AB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53932C04-DC18-4CFA-AE8F-D823A02D8AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53932C04-DC18-4CFA-AE8F-D823A02D8AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53932C04-DC18-4CFA-AE8F-D823A02D8AB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F8A1D33-E40D-4541-8340-941B08944FA2}
+	EndGlobalSection
+EndGlobal
